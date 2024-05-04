@@ -9,3 +9,4 @@ RUN pip install jupyterlab-execute-time
 
 # run without password
 CMD start.sh jupyter lab --LabApp.token=''
+
