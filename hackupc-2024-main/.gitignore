@@ -1,6 +1,7 @@
 .env
 .DS_STORE
 /demo
+/demo
 /demo/.DS_STORE
 /external/.DS_STORE
 /docker-compose.yml
