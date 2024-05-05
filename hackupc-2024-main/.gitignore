@@ -1,6 +1,6 @@
 .env
 .DS_STORE
-/demo
+/demo/.ipnb_checkpoints
 /demo/.DS_STORE
 /external/.DS_STORE
 /docker-compose.yml
